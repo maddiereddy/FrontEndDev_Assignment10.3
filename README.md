@@ -8,4 +8,4 @@
 and share data from parent to child component
 
 Note: 
-* use `npm run serve` to run app
+* use `npm run serve` to run app at localhost:8080
